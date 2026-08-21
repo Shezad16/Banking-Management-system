@@ -31,11 +31,9 @@ a {
 
 .hero-section {
     background:
-        linear-gradient(
-            135deg,
+        linear-gradient(135deg,
             #eef5ff,
-            #ffffff
-        );
+            #ffffff);
 }
 
 .min-vh-75 {
@@ -67,11 +65,9 @@ a {
     border-radius: 25px;
     color: white;
     background:
-        linear-gradient(
-            135deg,
+        linear-gradient(135deg,
             #0d6efd,
-            #5b21b6
-        );
+            #5b21b6);
     box-shadow: 0 25px 60px rgba(13, 110, 253, .25);
 }
 
@@ -169,11 +165,9 @@ a {
 .auth-body {
     min-height: 100vh;
     background:
-        linear-gradient(
-            135deg,
+        linear-gradient(135deg,
             #eef5ff,
-            #f8f9ff
-        );
+            #f8f9ff);
 
     display: flex;
     align-items: center;
@@ -181,9 +175,8 @@ a {
 }
 
 .auth-container {
-    width: 100%;
-    max-width: 480px;
-    padding: 20px;
+    max-width: 550px;
+    margin: 0 auto;
 }
 
 .auth-card {
@@ -285,11 +278,9 @@ a {
 
 .balance-banner {
     background:
-        linear-gradient(
-            135deg,
+        linear-gradient(135deg,
             #0d6efd,
-            #4f46e5
-        );
+            #4f46e5);
 
     color: white;
     padding: 35px;
@@ -304,7 +295,7 @@ a {
     font-size: 42px;
 }
 
-.balance-banner > i {
+.balance-banner>i {
     font-size: 60px;
     opacity: .3;
 }
@@ -470,7 +461,7 @@ a {
         font-size: 32px;
     }
 
-    .balance-banner > i {
+    .balance-banner>i {
         font-size: 40px;
     }
 
