@@ -175,11 +175,13 @@ a {
 }
 
 .auth-container {
+    width: 100%;
     max-width: 550px;
     margin: 0 auto;
 }
 
 .auth-card {
+    width: 100%;
     background: white;
     padding: 40px;
     border-radius: 22px;
